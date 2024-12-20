@@ -1,5 +1,3 @@
-# Book-Management-System
-
 # Book Management System
 
 A simple yet powerful desktop application for managing your book collection. This application allows users to maintain a digital catalog of books with essential details and perform various operations like adding, updating, and removing books.
